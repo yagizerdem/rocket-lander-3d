@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|c:\\users\\yagiz\\desktop\\rocket lander 3d\\assets\\scripts\\mainmenurelated\\mainmenuconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenurelated\\mainmenuconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|c:\\users\\yagiz\\desktop\\rocket lander 3d\\assets\\scripts\\mainmenurelated\\scrollbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenurelated\\scrollbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\obstaclerelated\\periodichorizontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclerelated\\periodichorizontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\obstaclerelated\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclerelated\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\playerrelated\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrelated\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\levelrelated\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelrelated\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\playerrelated\\explosionparticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrelated\\explosionparticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,15 +35,7 @@
       "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrelated\\successparticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\levelrelated\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelrelated\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|c:\\users\\yagiz\\desktop\\rocket lander 3d\\assets\\scripts\\playerrelated\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrelated\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|c:\\users\\yagiz\\desktop\\rocket lander 3d\\assets\\scripts\\cursorrelated\\cursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\assets\\scripts\\cursorrelated\\cursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61BB4FAB-A7D9-10F6-7348-9888EE4AD7D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursorrelated\\cursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +50,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "MainMenuConroller.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\MainMenuRelated\\MainMenuConroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuRelated\\MainMenuConroller.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\MainMenuRelated\\MainMenuConroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuRelated\\MainMenuConroller.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:09:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScrollBarController.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\MainMenuRelated\\ScrollBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuRelated\\ScrollBarController.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\MainMenuRelated\\ScrollBarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuRelated\\ScrollBarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:49:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeriodicHorizontal.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\obstacleRelated\\PeriodicHorizontal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\obstacleRelated\\PeriodicHorizontal.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\obstacleRelated\\PeriodicHorizontal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\obstacleRelated\\PeriodicHorizontal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:23:56.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spin.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\obstacleRelated\\Spin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\obstacleRelated\\Spin.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\obstacleRelated\\Spin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\obstacleRelated\\Spin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:00:09.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CursorController.cs",
               "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\CursorRelated\\CursorController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CursorRelated\\CursorController.cs",
@@ -46,12 +112,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CursorRelated\\CursorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T14:17:34.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T14:17:34.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RocketStates.cs",
               "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\PlayerRelated\\RocketStates.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRelated\\RocketStates.cs",
@@ -63,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "SuccessParticleController.cs",
               "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\PlayerRelated\\SuccessParticleController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRelated\\SuccessParticleController.cs",
@@ -71,47 +136,43 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerRelated\\SuccessParticleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T14:02:19.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T14:02:19.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ExplosionParticleController.cs",
               "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\PlayerRelated\\ExplosionParticleController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRelated\\ExplosionParticleController.cs",
               "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\PlayerRelated\\ExplosionParticleController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerRelated\\ExplosionParticleController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:29:37.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T13:29:37.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LevelController.cs",
               "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\LevelRelated\\LevelController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelRelated\\LevelController.cs",
               "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\LevelRelated\\LevelController.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelRelated\\LevelController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:13:43.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T13:13:43.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "hit.cs",
               "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\PlayerRelated\\hit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRelated\\hit.cs",
               "ToolTip": "C:\\Users\\yagiz\\Desktop\\rocket lander 3d\\Assets\\Scripts\\PlayerRelated\\hit.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerRelated\\hit.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwD0AAAAYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBgwAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T12:40:18.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T12:40:18.753Z"
             }
           ]
         }
